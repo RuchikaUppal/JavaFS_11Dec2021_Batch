@@ -1,3 +1,17 @@
+
+
+GIT HUB
 git remote add origin git@github.com:RuchikaUppal/JavaFS_11Dec2021_Batch.git
 git branch -M main
 git push -u origin main
+
+
+Git local
+
+git --version
+git init
+git add .
+git status
+git commit -m "<message>"
+git log
+git log --oneline
