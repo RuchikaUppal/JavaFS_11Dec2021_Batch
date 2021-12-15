@@ -1,4 +1,4 @@
-Answer to Qyestion 2
+Answer to Question 2
 =========================
 Data Type    Wrapper Class     Memory Size            Range
 byte         Byte              1 byte                 -128 to 127
@@ -12,7 +12,7 @@ String       String            size of the string
 bool         Boolean           True/Flase
 
 
-Answer to Qyestion 6 
+Answer to Question 6 
 =========================
 String pool is a storage area in Java heap where string literals are stored. 
 It is just like object allocation so to decrease the number of String objects 
@@ -23,12 +23,12 @@ returns. If the string does not exist in the pool, a new String object initializ
 and is placed in the pool. 
 
 
-Answer to Qyestion 5 
+Answer to Question 5 
 =========================
 
 A String variable contains a collection of characters surrounded by double quotes.
 It is actually an object of the class String in java.
-The string class contain methods that can perform certain operations on strings. Some of whic are lenth(),indexOf(),concat()
+The string class contain methods that can perform certain operations on strings.Some of which are lenth(),indexOf(),concat()
 charAt(),equals(),contains(), etc.
 Once created, a string is immutable. Immutable simply means unmodifiable or unchangeable. 
 Once String object is created its data or state can't be changed but a new String object is created.
